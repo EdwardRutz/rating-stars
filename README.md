@@ -18,4 +18,9 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+## Sources
+
+- [docs for vue-loader](http://vuejs.github.io/vue-loader).
+- [Components Tutorial](https://medium.freecodecamp.org/build-your-first-vue-js-component-2dc204bca514)
